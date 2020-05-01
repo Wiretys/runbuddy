@@ -89,7 +89,7 @@ footer div {
 
 /*Hero Styles Start */
 .hero {
-    background-image: url("C:/Users/Owner/OneDrive/Desktop/projects/runbuddy/assets/images/hero-bg.jpg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
