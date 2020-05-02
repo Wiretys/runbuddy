@@ -96,6 +96,10 @@ footer div {
     position: relative;
 }
 
+.hero form input {
+    height: 25px;
+}
+
 .hero-form {
     background-color: #fce138;
     padding: 20px;
@@ -116,8 +120,9 @@ footer div {
     margin: 5px 0 15px 0;
 }
 
+
 .form-input {
-    border: 0px solid #024e76;
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16px;
