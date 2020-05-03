@@ -1,4 +1,4 @@
-# runbuddy
+# Run Buddy
 
 ## Purpose
 A bedsite that offers fitness training services.
