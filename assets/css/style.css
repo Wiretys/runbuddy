@@ -360,7 +360,7 @@ footer div {
 
   .trainer-img {
     width: 100%;
-    min-height: 600px;
+    min-height: 1000px;
     display: flex;
     padding: 15px;
     align-items: flex-end;
